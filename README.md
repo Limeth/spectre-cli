@@ -59,7 +59,7 @@ The source is broken down into several components, each hosted in their own repo
 
 This repository hosts the POSIX command-line interface.
 
-To build the code to run on your specific system, run the `build` script:
+To build the code to run on your specific system, make sure you've checked out the GIT submodules and run the `build` script:
 
     ./build
 
