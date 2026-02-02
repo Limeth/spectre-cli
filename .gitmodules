@@ -1,3 +1,3 @@
 [submodule "api"]
 	path = api
-	url = https://gitlab.com/spectre.app/api.git
+	url = https://github.com/Limeth/spectre-api
